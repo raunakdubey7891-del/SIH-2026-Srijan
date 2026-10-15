@@ -44,11 +44,30 @@ An AI-powered mobile app that turns an artisan's phone camera into an online sho
 
 ## Presentation
 
-📄 [View the presentation (PDF)](./SIH-2026-Srijan.pdf)
+📄 [View the presentation (PDF)](./SRIJAN_SIH_PPT.pdf)
 
 ## Tech Stack
 
-> _Add your planned stack here, for example: mobile app framework, backend, AI/ML models and APIs, database, cloud._
+| Layer | Technology |
+|---|---|
+| **Frontend** | Flutter / Dart |
+| **Backend** | Node.js, Express.js |
+| **Database** | PostgreSQL / Supabase |
+| **AI & ML** | Python, OpenAI Whisper, OpenCV, LLMs |
+| **Image Processing** | Cloudinary (image enhancement, background removal, new background per product category) |
+| **Content Generation** | ChatGPT / DeepSeek (product title, description, catchy words and tags) |
+| **API Services** | REST API |
+| **Deployment & Tools** | AWS / Render, Docker, GitHub, Git |
+
+### Product Listing Workflow
+
+1. **Input:** the artisan uploads a product photo and describes the product by voice.
+2. **Image processing:** Cloudinary enhances the image, removes the background and sets a new one.
+3. **Speech to text:** Whisper converts the seller's voice into text.
+4. **Content generation:** an LLM creates the title, description and catchy tags.
+5. **Data repository:** the processed image and generated content are stored.
+6. **Listing creation:** image, title, description and tags are combined into a catalogue listing.
+7. **Marketplace integration:** the listing is published to online marketplaces and goes live.
 
 ## Team Srijan
 
