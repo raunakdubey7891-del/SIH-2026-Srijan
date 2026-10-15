@@ -44,7 +44,7 @@ An AI-powered mobile app that turns an artisan's phone camera into an online sho
 
 ## Presentation
 
-📄 [View the presentation (PDF)](./SRIJAN_SIH_PPT.pdf)
+📄 [View the presentation (PDF)](./SIH-2026-Srijan.pdf)
 
 ## Tech Stack
 
