@@ -72,7 +72,11 @@ An AI-powered mobile app that turns an artisan's phone camera into an online sho
 ## Team Srijan
 
 - Raunak Dubey
-- _Add teammates here_
+- Sahil Kumar Singh
+- Yash Pathak
+- Vikram Kumar Modi
+- Prem Kumar Devangan
+- Muskan Rathore
 
 ## References
 
